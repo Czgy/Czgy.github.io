@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     揭谛揭谛92
+weibo_username:     2606796311
 zhihu_username:     Vincent103
 github_username:    Czgy
 twitter_username:   Vincent3_AI
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: zgy
 
 # Netease settings
 netease_comment: false
@@ -72,14 +72,15 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: zgy.vin
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "ZGY,工业自动化圈 NPC,C#/C++爱好者 <br> An programmer."
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-zgy.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -106,28 +107,16 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序（Midare）",
-        href: "http://mida.re/"
+        title: "V2EX",
+        href: "https://www.v2ex.com/"
     },{
-        title: "Sherry Woo",
-        href: "https://sherrywoo.me/"
+        title: "烧饼博客",
+        href: "https://u.sb/"
     },{
-        title: "Kun Qian",
-        href: "http://kunq.me"
+        title: "懵逼网",
+        href: "https://meng.bi/"
     },{
-        title: "Ebn Zhang",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "黄玄Hux",
+        href: "http://huangxuan.me/"
     }
 ]
