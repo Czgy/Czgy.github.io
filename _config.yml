@@ -80,7 +80,7 @@ ga_domain: zgy.vin
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "ZGY,工业自动化圈 NPC,C#/C++爱好者 <br> An programmer."
 # sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: img/avatar-zgy.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-vin.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
