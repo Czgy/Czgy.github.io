@@ -104,9 +104,6 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
         title: "V2EX",
         href: "https://www.v2ex.com/"
     },{
@@ -118,5 +115,8 @@ friends: [
     },{
         title: "黄玄Hux",
         href: "http://huangxuan.me/"
+    },{
+        title: "舔狗",
+        href: "https://wedog.ru/"
     }
 ]
