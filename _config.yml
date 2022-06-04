@@ -1,6 +1,6 @@
 # Site settings
-title: ZGY Blog
-SEOTitle: ZGY的博客 | Vincent Blog
+title: Zgy Blog
+SEOTitle: Zgy的博客 | Vincent Blog
 header-img: img/home-bg.jpg
 email: i@zgy.vin
 description: "关于程序与设计、工业自动化程序员 | ZGY,Machine Vision,Software Engineer | 这里是 @ZGY.VIN 的个人博客，与你一起发现更大的世界。"
@@ -78,9 +78,9 @@ ga_domain: zgy.vin
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "ZGY,工业自动化圈 NPC,C#/C++爱好者 <br> An programmer."
+sidebar-about-description: "Zgy(Vincent) <br> 工业自动化从业者 <br> 机器视觉、C#/C++爱好者 <br> An programmer."
 # sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: img/avatar-vin.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-vin.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -107,10 +107,10 @@ friends: [
         title: "V2EX",
         href: "https://www.v2ex.com/"
     },{
-        title: "烧饼博客",
+        title: "烧饼",
         href: "https://u.sb/"
     },{
-        title: "懵逼网",
+        title: "懵逼",
         href: "https://meng.bi/"
     },{
         title: "黄玄Hux",

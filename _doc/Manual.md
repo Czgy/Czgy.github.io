@@ -1,4 +1,4 @@
-Hux Blog User Manual
+Zgy Blog User Manual
 ====================
 
 * Basics
