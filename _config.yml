@@ -68,10 +68,10 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: 7c127e36cb4851e68abcb6923ce54ed5
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'G-9SP8YPDQQN'            # Format: UA-xxxxxx-xx
 ga_domain: zgy.vin
 
 
